@@ -13,7 +13,7 @@ Aplikasi berbasis web yang dirancang khusus untuk membantu pemilik toko UMKM sep
 
 Follow this instructions to install the project:
 
-1. Clone this repo `$ git clone https://github.com/syafiqfajrianemha/stok.git`
+1. Clone this repo `$ git clone https://github.com/fadilelfajr/skripsi.git`
 2. `$ cd stok`
 3. `$ composer install`
 4. `$ cp .env.example .env`
